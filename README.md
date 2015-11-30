@@ -16,8 +16,6 @@ See [CodePen example](http://codepen.io/javiercejudo/pen/dYxdOW?editors=101)
 (as of November 2015, the pen works on Firefox and Edge).
 
 ```js
-require('linear-preset-proxy-factory');
-
 const Decimal = require('arbitrary-precision')(require('floating-adapter'));
 const proxyFactory = require('linear-preset-proxy-factory');
 
