@@ -1,6 +1,6 @@
 {
   "name": "linear-preset-proxy-factory",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Create a proxy for any to any conversions",
   "main": "src/index.js",
   "scripts": {
