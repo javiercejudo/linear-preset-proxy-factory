@@ -12,6 +12,9 @@ Create a proxy for any to any conversions
 
 ## Usage
 
+See [CodePen example](http://codepen.io/javiercejudo/pen/dYxdOW?editors=101)
+(as of November 2015, the pen works on Firefox and Edge).
+
 ```js
 require('linear-preset-proxy-factory');
 

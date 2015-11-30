@@ -2,8 +2,10 @@
 
 'use strict';
 
+const anyToAnyFactory = require('linear-preset-any-to-any');
+
 module.exports = (Decimal, conversions) => {
-  const anyToAny = require('linear-preset-any-to-any')(Decimal);
+  const anyToAny = anyToAnyFactory(Decimal);
 
   return new Proxy(conversions, {
     get: (target, name) => {
