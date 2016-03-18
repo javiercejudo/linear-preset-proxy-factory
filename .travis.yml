@@ -1,6 +1,9 @@
 language: node_js
 node_js:
   - 'stable'
+matrix:
+  allow_failures:
+    - nodejs: 'stable'
 before_install:
   - npm i -g gulp
 after_success:
