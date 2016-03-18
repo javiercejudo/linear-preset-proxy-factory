@@ -13,7 +13,7 @@ Create a proxy for any to any conversions
 ## Usage
 
 See [CodePen example](http://codepen.io/javiercejudo/pen/dYxdOW?editors=101)
-(as of November 2015, the pen works on Firefox and Edge).
+(as of March 2016, the pen works on Chrome, Firefox and Edge).
 
 ```js
 const Decimal = require('arbitrary-precision')(require('floating-adapter'));
