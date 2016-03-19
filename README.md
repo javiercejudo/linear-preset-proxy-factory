@@ -11,7 +11,7 @@ Create a proxy for any to any conversions
 
 ## Usage
 
-See [CodePen example](http://codepen.io/javiercejudo/pen/dYxdOW?editors=101)
+See [CodePen example](http://codepen.io/javiercejudo/pen/MyJxgm?editors=1010)
 (as of March 2016, the pen works on Chrome, Firefox and Edge).
 
 ```js
