@@ -1,6 +1,7 @@
 # linear-preset-proxy-factory
 
 [![Build Status](https://travis-ci.org/javiercejudo/linear-preset-proxy-factory.svg)](https://travis-ci.org/javiercejudo/linear-preset-proxy-factory)
+[![Coverage Status](https://coveralls.io/repos/github/javiercejudo/linear-preset-proxy-factory/badge.svg?branch=master)](https://coveralls.io/github/javiercejudo/linear-preset-proxy-factory?branch=master)
 [![Code Climate](https://codeclimate.com/github/javiercejudo/linear-preset-proxy-factory/badges/gpa.svg)](https://codeclimate.com/github/javiercejudo/linear-preset-proxy-factory)
 
 Create a proxy for any to any conversions
